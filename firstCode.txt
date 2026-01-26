@@ -1,3 +1,4 @@
 hello git  //xnhnjwhus !!!!
 take input from user 
 add the values
+submit data into datrabase
